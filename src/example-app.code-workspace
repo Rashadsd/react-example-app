@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\example-app"
+		},
+		{
+			"path": "..\\..\\..\\crud_app"
+		},
+		{
+			"path": "..\\..\\..\\oAuth"
+		},
+		{
+			"path": "..\\..\\..\\ADD-PERSON"
+		},
+		{
+			"path": "..\\..\\..\\SEND-MAIL"
+		},
+		{
+			"path": "..\\..\\..\\PROJECT"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "crud_app"
+	}
+}
